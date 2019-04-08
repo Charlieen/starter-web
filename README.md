@@ -12,3 +12,6 @@ How to deploment it
 ## How to Contribute
 
 any one can contribute it 
+
+##CopyRight
+this.is free 
