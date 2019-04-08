@@ -16,7 +16,7 @@ How to deploment it
 any one can contribute it 
 
 ##CopyRight
-this.is free 
+this.is free  All right reserved..
 
 ## Team Member
 add team member
