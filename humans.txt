@@ -17,4 +17,5 @@ Lena
     HTML5, CSS3
     jQuery, Modernizr
 	Angular, ngrx,
+	stash to branch.
 	
